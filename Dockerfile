@@ -1,5 +1,5 @@
 #Images insatlled
-FROM python:3.9
+FROM python:3.10-alpine
 # working directory created for the docker
 WORKDIR /app
 # Copy the source code to the app
