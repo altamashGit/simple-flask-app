@@ -9,13 +9,7 @@ A minimal Flask web application running in Docker.
 - Simple routes (`/` and `/about`)
 
 ## Project Structure
-.
-├── app.py
-├── docker-compose.yml
-├── Dockerfile
-├── requirements.txt
-└── templates
-    └── index.html
+![Image](https://github.com/user-attachments/assets/b7b47b9a-7509-4f13-8743-7773f6bd2eea)
 
 ## Usage
 
